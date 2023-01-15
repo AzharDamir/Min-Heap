@@ -1,0 +1,6 @@
+﻿  HeapImp.cpp
+C:\Users\azhar damir\Source\Repos\Min_Heap\HeapImp.cpp(29,15): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\azhar damir\Source\Repos\Min_Heap\HeapImp.cpp(35,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  Min_Heap.cpp
+  Génération de code en cours...
+  Min_Heap.vcxproj -> C:\Users\azhar damir\Source\Repos\Min_Heap\Debug\Min_Heap.exe
